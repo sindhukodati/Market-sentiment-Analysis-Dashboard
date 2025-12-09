@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+requests
+vaderSentiment
+matplotlib
+plotly
+wordcloud
+yfinance
+apscheduler
+python-dotenv
+# optional (only if you want transformer support)
+transformers>=4.0.0
+torch
